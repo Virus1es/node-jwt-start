@@ -15,7 +15,7 @@ class AuthController {
         }
     }
 
-    async setUsers(req, res) {
+    async getUsers(req, res) {
         try{
 
         } catch (e) {
